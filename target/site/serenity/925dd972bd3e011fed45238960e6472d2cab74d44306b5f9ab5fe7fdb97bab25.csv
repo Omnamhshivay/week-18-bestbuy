@@ -1,0 +1,6 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Stores test","This will get all store list","SUCCESS","2022-06-07T21:37:09.235+01:00[Europe/London]","0.0","0.13"
+"Stores test","This will create new store","SUCCESS","2022-06-07T21:37:09.366+01:00[Europe/London]","0.0","0.1"
+"Stores test","This will get store by id","SUCCESS","2022-06-07T21:37:09.472+01:00[Europe/London]","0.0","0.05"
+"Stores test","Update the product information and verify updated information","SUCCESS","2022-06-07T21:37:09.523+01:00[Europe/London]","0.0","0.11"
+"Stores test","Delete store","FAILURE","2022-06-07T21:37:09.630+01:00[Europe/London]","0.0","0.1"

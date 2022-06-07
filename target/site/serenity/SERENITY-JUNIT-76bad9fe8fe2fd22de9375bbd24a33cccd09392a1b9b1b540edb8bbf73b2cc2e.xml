@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="1" name="com.bestbuy.bestbuytest.StoresTest" skipped="0" tests="5" time="0.48" timestamp="2022-06-07T21:37:09.235+01:00[Europe/London]"><testcase classname="com.bestbuy.bestbuytest.StoresTest" name="This will get all store list"/><testcase classname="com.bestbuy.bestbuytest.StoresTest" name="This will create new store"/><testcase classname="com.bestbuy.bestbuytest.StoresTest" name="This will get store by id"/><testcase classname="com.bestbuy.bestbuytest.StoresTest" name="Update the product information and verify updated information"/><testcase classname="com.bestbuy.bestbuytest.StoresTest" name="Delete store"><failure message="1 expectation failed.&#10;Expected status code &lt;200&gt; but was &lt;404&gt;.&#10;" type="java.lang.AssertionError">1 expectation failed.
+Expected status code &lt;200&gt; but was &lt;404&gt;.
+</failure><system-err>1 expectation failed.
+Expected status code &lt;200&gt; but was &lt;404&gt;.
+&#13;
+io.restassured.internal.ResponseSpecificationImpl.validateResponseIfRequired(ResponseSpecificationImpl.groovy:636)&#13;
+io.restassured.internal.ResponseSpecificationImpl.statusCode(ResponseSpecificationImpl.groovy:122)&#13;
+io.restassured.internal.ResponseSpecificationImpl.statusCode(ResponseSpecificationImpl.groovy:130)&#13;
+io.restassured.internal.ValidatableResponseOptionsImpl.statusCode(ValidatableResponseOptionsImpl.java:117)&#13;
+com.bestbuy.bestbuytest.StoresTest.test005(StoresTest.java:72)&#13;
+</system-err></testcase></testsuite>

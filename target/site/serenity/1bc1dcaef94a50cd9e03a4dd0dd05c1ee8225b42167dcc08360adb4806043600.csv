@@ -1,0 +1,5 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Products test","This will add product in to product list","ERROR","2022-06-07T21:37:07.677+01:00[Europe/London]","0.0","0.43"
+"Products test","verify if Product is created","FAILURE","2022-06-07T21:37:08.114+01:00[Europe/London]","0.0","0.05"
+"Products test","Update the product information and verify updated information","FAILURE","2022-06-07T21:37:08.279+01:00[Europe/London]","0.0","0.05"
+"Products test","Delete the product and verify if the product is deleted","FAILURE","2022-06-07T21:37:08.333+01:00[Europe/London]","0.0","0.03"

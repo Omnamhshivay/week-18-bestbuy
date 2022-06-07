@@ -1,0 +1,6 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Categories test","This will get all the categories","SUCCESS","2022-06-07T21:36:57.126+01:00[Europe/London]","0.0","4.71"
+"Categories test","This will create new categories","SUCCESS","2022-06-07T21:37:01.873+01:00[Europe/London]","0.0","0.55"
+"Categories test","Verify if categories is created","SUCCESS","2022-06-07T21:37:02.423+01:00[Europe/London]","0.0","0.26"
+"Categories test","Update the information and verify if it is updated","SUCCESS","2022-06-07T21:37:02.682+01:00[Europe/London]","0.0","0.11"
+"Categories test","Deleting categories and verify if it is deleted","SUCCESS","2022-06-07T21:37:02.791+01:00[Europe/London]","0.0","0.7"

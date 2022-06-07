@@ -1,0 +1,6 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Services test","This will get all the services list","SUCCESS","2022-06-07T21:37:08.552+01:00[Europe/London]","0.0","0.1"
+"Services test","This will create new services","SUCCESS","2022-06-07T21:37:08.658+01:00[Europe/London]","0.0","0.09"
+"Services test","Verify if the information was added to servcies ","SUCCESS","2022-06-07T21:37:08.754+01:00[Europe/London]","0.0","0.06"
+"Services test","Update the services and verify information","SUCCESS","2022-06-07T21:37:08.822+01:00[Europe/London]","0.0","0.14"
+"Services test","Delete services by Id and verify if the services is deleted","SUCCESS","2022-06-07T21:37:08.961+01:00[Europe/London]","0.0","0.15"
